@@ -58,7 +58,7 @@ Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-
 ## Solution overview
 
 - Headless Backend
-  - [Orders, Exchanges, and Returns](https://docs.medusajs.com/user-guide/orders/)
+  - [Orders](https://docs.medusajs.com/user-guide/orders/), [Exchanges](https://docs.medusajs.com/user-guide/orders/exchange), [Returns](https://docs.medusajs.com/user-guide/orders/returns)
   - [Customers](https://docs.medusajs.com/user-guide/customers/)
   - [Products](https://docs.medusajs.com/user-guide/products/) & [Collections](https://docs.medusajs.com/user-guide/products/collections)
   - [Regions](https://docs.medusajs.com/user-guide/regions/)
@@ -68,6 +68,7 @@ Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-
   - [Taxes](https://docs.medusajs.com/user-guide/taxes/)
 - Admin Dashboard
   - [Demo](https://demo.medusajs.com/)
+  - [Repo](https://github.com/medusajs/admin)
   - [Docs](https://docs.medusajs.com/admin/quickstart/)  
 - Starters and plugins
   - [Official plugins](https://github.com/medusajs/medusa/tree/master/packages) 
