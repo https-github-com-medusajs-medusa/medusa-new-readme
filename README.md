@@ -25,9 +25,6 @@ Open source composable commerce engine built for developers.
   <a href="https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
   </a>
-  <a href="https://discord.gg/xpCwq3Kfn8">
-    <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord Chat" />
-  </a>
   <a href="https://twitter.com/intent/follow?screen_name=medusajs">
     <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@medusajs" alt="Follow @medusajs" />
   </a>
@@ -45,24 +42,16 @@ Medusa is an open source composable commerce engine built with Node.js. The solu
 
 [Here](https://docs.medusajs.com/introduction#architecture).For an overview of Medusa's architecture
 
-## Community
+## Community & Contributions
 Our community and core team is available in our [GitHub discussions](https://github.com/medusajs/medusa/discussions), where you can request support, discuss roadmap and share ideas.
 
 Join our [Discord](https://discord.com/invite/medusajs) to meet other community members.
 
-## Roadmap
-
-You can view our roadmap with features that are planned, started, and completed on the [Roadmap discussion](https://github.com/medusajs/medusa/discussions/categories/roadmap).
-
-## Plugins
-
-Check out [our available plugins](https://github.com/medusajs/medusa/tree/master/packages) that you can install and use instantly on your Medusa server.
-
-## Contributions
-
 Our [contribution guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md) describes how to contribute to our codebase and documentation.
 
-## Upgrade Guides
+## Roadmap & Upgrades
+
+You can view our roadmap with features that are planned, started, and completed on the [Roadmap discussion](https://github.com/medusajs/medusa/discussions/categories/roadmap).
 
 Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-guides/) to keep your Medusa project up-to-date.
 
@@ -71,9 +60,9 @@ Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-
 - Headless Backend
   - [Orders, Exchanges, and Returns](https://docs.medusajs.com/user-guide/orders/)
   - [Customers](https://docs.medusajs.com/user-guide/customers/)
-  - [Products and Collections](https://docs.medusajs.com/user-guide/products/)
+  - [Products](https://docs.medusajs.com/user-guide/products/) & [Collections](https://docs.medusajs.com/user-guide/products/collections)
   - [Regions](https://docs.medusajs.com/user-guide/regions/)
-  - [Pricelists](https://docs.medusajs.com/user-guide/price-lists/) and [discounts](https://docs.medusajs.com/user-guide/discounts/)
+  - [Pricelists](https://docs.medusajs.com/user-guide/price-lists/) & [discounts](https://docs.medusajs.com/user-guide/discounts/)
   - [Sales Channels](https://docs.medusajs.com/user-guide/sales-channels/)
   - [Bulk Import](https://docs.medusajs.com/user-guide/products/import/) & [Export](https://docs.medusajs.com/user-guide/products/export/)
   - [Taxes](https://docs.medusajs.com/user-guide/taxes/)
@@ -81,7 +70,8 @@ Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-
   - [Demo](https://demo.medusajs.com/)
   - [Docs](https://docs.medusajs.com/admin/quickstart/)  
 - Starters and plugins
-  - [Plugins overview](https://www.notion.so/medusajs/1a0ada9903874e0185d0b8ce0591b359?v=0631285851ba4021aa07c3b48dd4801a)
+  - [Official plugins](https://github.com/medusajs/medusa/tree/master/packages) 
+  - [All plugins](https://www.notion.so/medusajs/1a0ada9903874e0185d0b8ce0591b359?v=0631285851ba4021aa07c3b48dd4801a) (incl. community plugins)
   - [Plugins Docs](https://docs.medusajs.com/advanced/backend/plugins/overview/)
   - [Storefront Starter](https://docs.medusajs.com/starters/nextjs-medusa-starter)
 
