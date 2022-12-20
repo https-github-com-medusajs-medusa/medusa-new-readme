@@ -40,7 +40,7 @@ Visit our [Docs](https://docs.medusajs.com/tutorial/set-up-your-development-envi
 
 Medusa is an open source composable commerce engine built with Node.js. The solution is headless and is leveraged in multiple use cases, incl. traditional B2C and B2B commerce, multi-channel setups, OMS-functionality, marketplaces and more.
 
-[Here](https://docs.medusajs.com/introduction#architecture). For an overview of Medusa's architecture
+[Here](https://docs.medusajs.com/introduction#architecture). For an overview of Medusa's architecture.
 
 ## Community & Contributions
 Our community and core team is available in our [GitHub discussions](https://github.com/medusajs/medusa/discussions), where you can request support, discuss roadmap and share ideas.
