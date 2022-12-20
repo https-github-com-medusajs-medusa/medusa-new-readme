@@ -66,6 +66,7 @@ Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-
   - [Sales Channels](https://docs.medusajs.com/user-guide/sales-channels/)
   - [Bulk Import](https://docs.medusajs.com/user-guide/products/import/) & [Export](https://docs.medusajs.com/user-guide/products/export/)
   - [Taxes](https://docs.medusajs.com/user-guide/taxes/)
+  - [More](https://docs.medusajs.com/)
 - Admin Dashboard
   - [Demo](https://demo.medusajs.com/)
   - [Repo](https://github.com/medusajs/admin)
