@@ -7,13 +7,13 @@
 </h1>
 
 <h4 align="center">
-  <a href="https://docs.medusajs.com">Documentation</a> |
-  <a href="https://demo.medusajs.com/">Medusa Admin Demo</a> |
-  <a href="https://www.medusajs.com">Website</a>
+  <a href="https://docs.medusajs.com">Docs</a> |
+  <a href="https://demo.medusajs.com/">Admin Demo</a> |
+  <a href="https://www.medusajs.com">Web</a>
 </h4>
 
 <p align="center">
-An open source composable commerce engine built for developers.
+Open source composable commerce engine built for developers.
 </p>
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
@@ -25,7 +25,6 @@ An open source composable commerce engine built for developers.
   <a href="https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
   </a>
-    <a href="https://www.producthunt.com/posts/medusa"><img src="https://img.shields.io/badge/Product%20Hunt-%231%20Product%20of%20the%20Day-%23DA552E" alt="Product Hunt"></a>
   <a href="https://discord.gg/xpCwq3Kfn8">
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord Chat" />
   </a>
@@ -36,25 +35,24 @@ An open source composable commerce engine built for developers.
 
 ## Getting Started
 
-Follow our [quickstart guide](https://docs.medusajs.com/quickstart/quick-start) to learn how to set up a Medusa server.
+Visit our [Quickstart Guide](https://docs.medusajs.com/quickstart/quick-start) to set up a server.
 
-### Requirements
-
-You can check out [this documentation for details about setting up your environment](https://docs.medusajs.com/tutorial/set-up-your-development-environment).
+Visit our [Docs](https://docs.medusajs.com/tutorial/set-up-your-development-environment) to learn more about our system requirements.
 
 ## What is Medusa
 
-Medusa is an open source composable commerce engine built with Node.js. Medusa enables developers to build scalable and sophisticated commerce setups with low effort and great developer experience.
+Medusa is an open source composable commerce engine built with Node.js. The solution is headless and can be leveraged in multiple use cases, incl. traditional B2C and B2B commerce, multi-channel setups, OMS-functionality, marketplaces etc.
 
-You can learn more about [Medusa’s architecture in our documentation](https://docs.medusajs.com/introduction#architecture).
+[Here](https://docs.medusajs.com/introduction#architecture).For an overview of Medusa's architecture
 
-### Features
+## Community
+Our community and core team is available in our [GitHub discussions](https://github.com/medusajs/medusa/discussions), where you can request support, discuss roadmap and share ideas.
 
-You can learn about all of the ecommerce features that Medusa provides [in our documentation](https://docs.medusajs.com/introduction#features).
+Join our [Discord](https://discord.com/invite/medusajs) to meet other community members.
 
 ## Roadmap
 
-You can view our roadmap with features that are planned, started, and completed on the [Roadmap discussion](https://github.com/medusajs/medusa/discussions/categories/roadmap) category.
+You can view our roadmap with features that are planned, started, and completed on the [Roadmap discussion](https://github.com/medusajs/medusa/discussions/categories/roadmap).
 
 ## Plugins
 
@@ -62,23 +60,35 @@ Check out [our available plugins](https://github.com/medusajs/medusa/tree/master
 
 ## Contributions
 
-Please check [our contribution guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md) for details about how to contribute to both our codebase and our documentation.
+Our [contribution guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md) describes how to contribute to our codebase and documentation.
 
 ## Upgrade Guides
 
-Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-guides/) on the documentation to keep your Medusa project up-to-date.
+Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-guides/) to keep your Medusa project up-to-date.
 
-## Community & Support
+## Solution overview
 
-Use these channels to be part of the community, ask for help while using Medusa, or just learn more about Medusa:
+- Headless Backend
+  - [Orders, Exchanges, and Returns](https://docs.medusajs.com/user-guide/orders/)
+  - [Customers](https://docs.medusajs.com/user-guide/customers/)
+  - [Products and Collections](https://docs.medusajs.com/user-guide/products/)
+  - [Regions](https://docs.medusajs.com/user-guide/regions/)
+  - [Pricelists](https://docs.medusajs.com/user-guide/price-lists/) and [discounts](https://docs.medusajs.com/user-guide/discounts/)
+  - [Sales Channels](https://docs.medusajs.com/user-guide/sales-channels/)
+  - [Bulk Import](https://docs.medusajs.com/user-guide/products/import/) & [Export](https://docs.medusajs.com/user-guide/products/export/)
+  - [Taxes](https://docs.medusajs.com/user-guide/taxes/)
+- Admin Dashboard
+  - [Demo](https://demo.medusajs.com/)
+  - [Docs](https://docs.medusajs.com/admin/quickstart/)  
+- Starters and plugins
+  - [Plugins overview](https://www.notion.so/medusajs/1a0ada9903874e0185d0b8ce0591b359?v=0631285851ba4021aa07c3b48dd4801a)
+  - [Plugins Docs](https://docs.medusajs.com/advanced/backend/plugins/overview/)
+  - [Storefront Starter](https://docs.medusajs.com/starters/nextjs-medusa-starter)
 
-- [Discord](https://discord.gg/medusajs): This is the main channel to join the community. You can ask for help, showcase your work with Medusa, and stay up to date with everything Medusa.
-- [GitHub Issues](https://github.com/medusajs/medusa/issues): for sending in any issues you face or bugs you find while using Medusa.
-- [GitHub Discussions](https://github.com/medusajs/medusa/discussions): for joining discussions and submitting your ideas.
-- [Medusa Blog](https://medusajs.com/blog/): find diverse tutorials and company news.
+## Other channels
+
+- [GitHub Issues](https://github.com/medusajs/medusa/issues)
+- [Discord](https://discord.gg/medusajs)
 - [Twitter](https://twitter.com/medusajs)
 - [LinkedIn](https://www.linkedin.com/company/medusajs)
-
-## License
-
-Licensed under the [MIT License](https://github.com/medusajs/medusa/blob/master/LICENSE)
+- [Medusa Blog](https://medusajs.com/blog/)
