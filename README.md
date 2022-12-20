@@ -47,13 +47,13 @@ Our community and core team is available in our [GitHub discussions](https://git
 
 Join our [Discord](https://discord.com/invite/medusajs) to meet other community members.
 
-Our [contribution guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md) describes how to contribute to our codebase and documentation.
+Our [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md) describes how to contribute to our codebase and documentation.
 
 ## Roadmap & Upgrades
 
 You can view our roadmap with features that are planned, started, and completed on the [Roadmap discussion](https://github.com/medusajs/medusa/discussions/categories/roadmap).
 
-Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-guides/) to keep your Medusa project up-to-date.
+Follow our [Upgrade Guides](https://docs.medusajs.com/advanced/backend/upgrade-guides/) to keep your Medusa project up-to-date.
 
 ## Solution overview
 
