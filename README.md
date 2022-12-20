@@ -38,9 +38,9 @@ Visit our [Docs](https://docs.medusajs.com/tutorial/set-up-your-development-envi
 
 ## What is Medusa
 
-Medusa is an open source composable commerce engine built with Node.js. The solution is headless and can be leveraged in multiple use cases, incl. traditional B2C and B2B commerce, multi-channel setups, OMS-functionality, marketplaces etc.
+Medusa is an open source composable commerce engine built with Node.js. The solution is headless and is leveraged in multiple use cases, incl. traditional B2C and B2B commerce, multi-channel setups, OMS-functionality, marketplaces and more.
 
-[Here](https://docs.medusajs.com/introduction#architecture).For an overview of Medusa's architecture
+[Here](https://docs.medusajs.com/introduction#architecture). For an overview of Medusa's architecture
 
 ## Community & Contributions
 Our community and core team is available in our [GitHub discussions](https://github.com/medusajs/medusa/discussions), where you can request support, discuss roadmap and share ideas.
@@ -73,7 +73,7 @@ Follow our [upgrade guides](https://docs.medusajs.com/advanced/backend/upgrade-
 - Starters and plugins
   - [Official plugins](https://github.com/medusajs/medusa/tree/master/packages) 
   - [All plugins](https://www.notion.so/medusajs/1a0ada9903874e0185d0b8ce0591b359?v=0631285851ba4021aa07c3b48dd4801a) (incl. community plugins)
-  - [Plugins Docs](https://docs.medusajs.com/advanced/backend/plugins/overview/)
+  - [Docs](https://docs.medusajs.com/advanced/backend/plugins/overview/)
   - [Storefront Starter](https://docs.medusajs.com/starters/nextjs-medusa-starter)
 
 ## Other channels
